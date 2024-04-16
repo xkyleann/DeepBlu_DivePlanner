@@ -18,3 +18,4 @@
   4. Run Application
   5. Select an iOS simulator or connect an iOS device.
   6. Hit the 'Run' button in Xcode to build and run the app.
+<img width="1708" alt="Ekran Resmi 2024-04-17 01 54 58" src="https://github.com/xkyleann/DeepBlue_DivePlanner/assets/128597547/dc866485-0b0c-41da-b233-a0902b466e53">
