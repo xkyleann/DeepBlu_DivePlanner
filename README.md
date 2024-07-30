@@ -12,7 +12,7 @@
 
 ## Installation 
 - To set up the Dive Calculator app on your local machine, follow these steps:
-  1. Clone the Repository: git clone https://github.com/yourusername/SwiftUI-Calculator.git
+  1. Clone the Repository: git clone 
   2. Open the Project:Open Calculator.xcodeproj in Xcode.
   3. Ensure that you have the latest version of Xcode installed on your macOS.
   4. Run Application
